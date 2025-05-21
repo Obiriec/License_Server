@@ -3,7 +3,7 @@
   "expiration_date": "31/12/9999 00:00:00",
   "product_name": "Realtime Risk (by Fury Team)",
   "license_key": "ABDDM_1234567890",
-  "license_type": "Standard",
+  "license_type": "lifetime license",
   "integrity_hash": "6e2b0721e703f3ada210019ed631eb5a",
   "max_verification_attempts": 3,
   "allow_offline_mode": true

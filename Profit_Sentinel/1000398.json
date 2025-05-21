@@ -1,22 +1,10 @@
 {
   "account_id": "1000398",
   "expiration_date": "31/12/9999 00:00:00",
-  "product_id": "PS-FT-2025",
-  "product_name": "Profit Sentinel (by Fury Team)",
+  "product_name": "Realtime Risk (by Fury Team)",
   "license_key": "ABDDM_1234567890",
-  "is_lifetime": true,
-  "is_active": true,
-  "activation_date": "01/01/2025 00:00:00",
-  "allowed_instances": 1,
-  "user_email": "a.brecciaroli@me.com",
-  "username": "Obiriec",
-  "is_trial": false,
-  "trial_days": 0,
-  "license_type": "Premium",
-  "custom_data": {
-    "version": "1.9.2",
-    "environment": "prod",
-    "distributor": "Fury Team",
-    "support_url": "https://t.me/Obiriec"
-  }
+  "license_type": "Lifetime",
+  "integrity_hash": "6e2b0721e703f3ada210019ed631eb5a",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": true
 }

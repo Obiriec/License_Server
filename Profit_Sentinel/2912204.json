@@ -1,6 +1,11 @@
 {
-      "account_id":"2912204",
-      "expiration_date":"31/12/9999 00:00:00",
-      "product_name":"Profit Sentinel (by Fury Team)",
-      "license_key":"ABDDM_1234567890"
+  "account_id": "2912204",
+"expiration_date": "31/12/9999 00:00:00",
+"product_name": "Profit Sentinel (by Fury Team)",
+"license_key": "ABDDM_1234567890",
+"LICENSE_HASH_SALT": "FuryTeam2025",
+  "license_type": "Lifetime",
+  "integrity_hash": "0177e4f71f8bf0e014044bef32d60b4a",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": true
 }

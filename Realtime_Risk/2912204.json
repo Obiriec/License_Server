@@ -1,0 +1,10 @@
+{
+  "account_id": "2912204",
+  "expiration_date": "31/12/9999 00:00:00",
+  "product_name": "Realtime Risk (by Fury Team)",
+  "license_key": "ABDDM_1234567890",
+  "license_type": "Lifetime",
+  "integrity_hash": "f53fa7f96f5707fa1f33f699e16af46f",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": true
+}

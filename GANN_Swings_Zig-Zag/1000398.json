@@ -1,10 +1,10 @@
 {
   "account_id": "1000398",
-  "expiration_date": "01/01/9999 00:00:00",
+  "expiration_date": "31/12/9999 00:00:00",
   "product_name": "GANN Swings Zig-Zag (by Fury Team)",
-  "license_key": "ABDDM_1234567890",
+  "license_key": "GANNSWINGS_1234567890",
   "license_type": "Lifetime",
-  "integrity_hash": "24f263d1d81e900a34392e6ffb11b3f2",
+  "integrity_hash": "f63e7fd84493134b7e1efa31bc54e917",
   "max_verification_attempts": 3,
   "allow_offline_mode": true
 }

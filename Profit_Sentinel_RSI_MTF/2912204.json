@@ -1,1 +1,10 @@
-
+{
+  "account_id": "2912204",
+  "expiration_date": "31/12/2026 00:00:00",
+  "product_name": "Profit Sentinel - RSI MTF (by Fury Team)",
+  "license_key": "PS-RSI-MTF-1000398-2026",
+  "license_type": "Pro",
+  "integrity_hash": "b85d7a989f3773f95da86f5d6e22f73a",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": false
+}

@@ -6,5 +6,5 @@
   "license_type": "PRO",
   "integrity_hash": "3628fc43cb4fb2ddfe84f658fa96913d",
   "max_verification_attempts": 3,
-  "allow_offline_mode": true
+  "allow_offline_mode": false
 }

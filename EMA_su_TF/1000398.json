@@ -1,10 +1,10 @@
 {
   "account_id": "1000398",
-  "expiration_date": "31/12/2025 23:59:59",
-  "product_name": "EMA su TF",
+  "expiration_date": "31/12/9999 00:00:00",
+  "product_name": "EMA su TF (by Fury Team)",
   "license_key": "ABCDEF-GHIJKL-MNOPQR-STUVWX",
   "license_type": "Premium",
-  "integrity_hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+  "integrity_hash": "48aa022fb132257e143cbbed19c30085",
   "max_verification_attempts": 3,
   "allow_offline_mode": false
 }

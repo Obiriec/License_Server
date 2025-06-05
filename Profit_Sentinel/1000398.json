@@ -6,5 +6,6 @@
   "license_type": "Lifetime",
   "integrity_hash": "01cd52fc1fdac6188cd3e53259ce6946",
   "max_verification_attempts": 3,
-  "allow_offline_mode": true
+  "allow_offline_mode": true,
+  "Faccio un test"
 }

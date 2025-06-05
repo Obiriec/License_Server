@@ -1,0 +1,10 @@
+{
+  "account_id": "1000398",
+  "expiration_date": "31/12/2025 23:59:59",
+  "product_name": "EMA su TF",
+  "license_key": "ABCDEF-GHIJKL-MNOPQR-STUVWX",
+  "license_type": "Premium",
+  "integrity_hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": false
+}

@@ -1,1 +1,10 @@
-
+{
+  "account_id": "2912204",
+  "expiration_date": "31/12/9999 00:00:00",
+  "product_name": "Candle Power (by Fury Team)",
+  "license_key": "kT9mP3bQ7xZ8wL5v",
+  "license_type": "Lifetime",
+  "integrity_hash": "78a9859addeb784ff921371b308a53d4",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": true
+}

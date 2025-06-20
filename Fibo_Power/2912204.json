@@ -1,0 +1,10 @@
+{
+  "account_id": "2912204",
+  "expiration_date": "31/12/9999 00:00:00",
+  "product_name": "Fibo Power (by Fury Team)",
+  "license_key": "XXXX-XXXX-XXXX-XXXX",
+  "license_type": "Lifetime",
+  "integrity_hash": "5de69ae5b282f62136b325a65210c0f5",
+  "max_verification_attempts": 3,
+  "allow_offline_mode": true
+}
